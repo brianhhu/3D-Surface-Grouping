@@ -8,11 +8,9 @@ The program is written in MATLAB (Mathworks). The code is known to run on R2014a
     Author                   = {Hu, Brian and von der Heydt, Rudiger and Niebur, Ernst},
     Booktitle                = {IEEE CISS-2015 49th Annual Conference on Information Sciences and Systems},
     Year                     = {2015},
-  
     Address                  = {Baltimore, MD},
     Organization             = {IEEE Information Theory Society},
     Pages                    = {1-6},
-  
     Doi                      = {10.1109/CISS.2015.7086906}
   }
 
