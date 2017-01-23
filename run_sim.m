@@ -1,6 +1,9 @@
 function run_sim
 % Runs simulations and displays attention modulation figures based on the Hu_etal15 CISS paper
 
+% Add path to code
+addpath(genpath('code'))
+
 %% Define model parameters (based on Marshall_etal96 paper)
 global p; % global variable for storing model parameters
 
