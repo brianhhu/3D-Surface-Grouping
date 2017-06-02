@@ -1,6 +1,10 @@
 # 3D Surface Representation
 Project code associated with Hu_etal '15 CISS paper on surface-based grouping and attention
 
+<p align="center">
+  <img src="http://brianhhu.github.io/img/Fig_3DSurface.png" width="400" alt="Sample saliency map"/>
+</p>
+
 The program is written in MATLAB (Mathworks). The code is known to run on R2014a, but should also be compatible with other versions. The main program function is **run_sim.m**, which can be used without any input arguments. The program will generate figures for each condition, as well as print out the surface modulation index for each condition in the console. For more details about the model, please see:
 
     @InProceedings{Hu_etal15a,
